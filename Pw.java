@@ -9,6 +9,7 @@ Public class JavaExample {
         {
             fact = fact * i;
         }
+	System.out.println("Practicing Learning Enjoying");
         System.out.println("Factorial of "+number+" is: "+fact);
     }
 }
